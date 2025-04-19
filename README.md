@@ -2,6 +2,10 @@
 
 The **Manaaki License** is a kaupapa-driven framework for equitable collaboration, grounded in the values of *manaaki* — to support  and care for one another in all relationships, including those involving creative and intellectual work. It is designed for artists, developers, educators, and collaborators who wish to protect the spirit of mutual benefit, cultural respect, and shared stewardship.
 
+<!-- link to the license itself -->
+[LICENSE](LICENSE.md)
+
+
 ## 🌿 Cultural Foundation
 
 In te ao Māori (the Māori worldview), *manaaki* does not simply mean "hospitality". It represents a deep ethic of care, generosity, and reciprocity. It is tied to *mana* (prestige, integrity, personal and collective authority), and to the ancestral understanding that we are all interconnected: through our whakapapa, through whenua, and through the relationships we sustain with others.
