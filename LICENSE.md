@@ -1,5 +1,5 @@
 
-# ./LICENSE
+# ./LICENSE.md
 
 # Manaaki License v0.1
 
@@ -7,7 +7,7 @@
 
 ## Preamble
 
-This license embodies principles of mutual respect, shared growth, and cultural integrity. It is intended for collaborative works where contributors seek to co-create, co-own, and co-monetize, ensuring that no party can unilaterally appropriate the work for exclusive benefit.
+This license embodies principles of mutual respect, shared growth, and cultural integrity. It is intended for collaborative works where contributors seek to co-create, co-own, and co-monetise, ensuring that no party can unilaterally appropriate the work for exclusive benefit.
 
 ## 1. Definitions
 
